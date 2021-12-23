@@ -3,8 +3,8 @@
 </div>  
   
 
-### <div align="center">안녕하세요. 주식회사 위니브 대표,
-  제주코딩베이스캠프의 운영진 이호준 대표님의 제자 홍제섭입니다. 
+### <div align="center">안녕하세요. 주식회사 위니브 대표,  제주코딩베이스캠프의 운영진 이호준 대표
+  님의 제자 홍제섭입니다. 
 
 이호준 대표님 이력
 * full-stack 개발, 정보보안, 빅데이터 분석 프로젝트 경험과 관련 학위, 자격증 보유. 
@@ -96,9 +96,9 @@
 <br/>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=paullabkorea&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jeseop&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>
+<br/>  
 
 
 ## Connect with me  
